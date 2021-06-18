@@ -1,11 +1,11 @@
 {
-  "version_code":3,
-  "version_name":"1.0.1",
+  "version_code":4,
+  "version_name":"1.0.2",
   "title_en":"New Version Available!",
-  "message_en":"Bug Fix & UI Improvement",
+  "message_en":"Backup and Restore Feature for account",
   "title_hi":"नया Version उपलब्ध है!",
-  "message_hi":"बग फिक्स और UI सुधार",
+  "message_hi":"खाते के लिए बैकअप और पुनर्स्थापना सुविधा",
   "title_gu":"નવું Version ઉપલબ્ધ છે!",
-  "message_gu":"બગ ફિક્સ અને UI ઇમ્પ્રૂવમેન્ટ",
+  "message_gu":"એકાઉન્ટ માટે સુવિધા બેકઅપ અને રીસ્ટોર",
   "is_force_update":false
 }
