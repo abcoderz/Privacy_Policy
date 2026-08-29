@@ -1,6 +1,6 @@
 # Privacy Policy for Rupee Control
 
-**Last updated:** August 28, 2026
+**Last updated:** August 29, 2026
 
 abcoderz ("we", "our", or "us") built the **Rupee Control** app as an Ad-supported / Freemium application. This SERVICE is provided by abcoderz at no cost (with an optional one-time Pro upgrade) and is intended for use as is.
 
@@ -20,7 +20,13 @@ Rupee Control is designed with privacy as a core principle:
 
 ### 2. Information Collection and Third-Party Services
 
-Rupee Control does not collect personally identifiable information directly. However, the app uses verified third-party SDKs provided by Google that may collect standard device identifiers for ad delivery, crash analytics, and in-app purchases:
+Rupee Control does not collect personally identifiable information directly. However, 
+
+**Khata / Ledger Feature (Personal Information):**
+- **Phone Number (Optional):** When using the Khata / Ledger feature, users have the option to enter a contact name and phone number solely for record-keeping and tracking personal transactions.
+- **Data Storage & Usage:** All Khata information, including entered phone numbers, is stored locally on your device (offline storage) and is used exclusively for app functionality. We do not transmit, sell, or share this data with external servers or third parties.
+
+the app uses verified third-party SDKs provided by Google that may collect standard device identifiers for ad delivery, crash analytics, and in-app purchases:
 
 * **Google Play Services / Google Play Billing:** Used for secure processing of in-app purchases (Rupee Control Pro).
   * [Google Privacy Policy](https://policies.google.com/privacy)
